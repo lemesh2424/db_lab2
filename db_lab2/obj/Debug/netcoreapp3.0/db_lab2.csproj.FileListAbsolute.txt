@@ -1,0 +1,15 @@
+/Users/lemesh/Projects/db_lab2/db_lab2/obj/Debug/netcoreapp3.0/db_lab2.csprojAssemblyReference.cache
+/Users/lemesh/Projects/db_lab2/db_lab2/obj/Debug/netcoreapp3.0/db_lab2.AssemblyInfoInputs.cache
+/Users/lemesh/Projects/db_lab2/db_lab2/obj/Debug/netcoreapp3.0/db_lab2.AssemblyInfo.cs
+/Users/lemesh/Projects/db_lab2/db_lab2/bin/Debug/netcoreapp3.0/db_lab2
+/Users/lemesh/Projects/db_lab2/db_lab2/bin/Debug/netcoreapp3.0/db_lab2.deps.json
+/Users/lemesh/Projects/db_lab2/db_lab2/bin/Debug/netcoreapp3.0/db_lab2.runtimeconfig.json
+/Users/lemesh/Projects/db_lab2/db_lab2/bin/Debug/netcoreapp3.0/db_lab2.runtimeconfig.dev.json
+/Users/lemesh/Projects/db_lab2/db_lab2/bin/Debug/netcoreapp3.0/db_lab2.dll
+/Users/lemesh/Projects/db_lab2/db_lab2/bin/Debug/netcoreapp3.0/db_lab2.pdb
+/Users/lemesh/Projects/db_lab2/db_lab2/bin/Debug/netcoreapp3.0/ConsoleTableExt.dll
+/Users/lemesh/Projects/db_lab2/db_lab2/bin/Debug/netcoreapp3.0/Npgsql.dll
+/Users/lemesh/Projects/db_lab2/db_lab2/bin/Debug/netcoreapp3.0/System.Runtime.CompilerServices.Unsafe.dll
+/Users/lemesh/Projects/db_lab2/db_lab2/obj/Debug/netcoreapp3.0/db_lab2.csproj.CopyComplete
+/Users/lemesh/Projects/db_lab2/db_lab2/obj/Debug/netcoreapp3.0/db_lab2.dll
+/Users/lemesh/Projects/db_lab2/db_lab2/obj/Debug/netcoreapp3.0/db_lab2.pdb
